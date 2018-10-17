@@ -8,7 +8,7 @@ public class HelloWorld {
         }
     }
     
-    private boolean fo(String x){
+    private static boolean fo(String x){
         return x.equals("asd");
     }
 }
